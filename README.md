@@ -75,13 +75,17 @@ The UFO-Sightings-Forecasting-Graph-ML project implements an end-to-end spatio-t
 ### Demo Screenshots  
 
 ## Fig 1: Global Monthly UFO Sightings (1900–2024)
+https://github.com/vaibhavv2004/UFO-Sightings-Forecasting-with-Graph-Based-ML/blob/main/global%20sighting(1900-2024.jpeg
 Historical time-series showing trends and seasonality across 1500 months
 
 ## Fig 2: Predicted 2026 Hotspot Regions (Bar Chart)
+https://github.com/vaibhavv2004/UFO-Sightings-Forecasting-with-Graph-Based-ML/blob/main/Predicted%20ufo%20sighting%20(2026).jpeg
 Canada leads with 126 predicted sightings, followed by Brazil and India
 
 ## Fig 3: 2024 vs 2026 Comparison
+https://github.com/vaibhavv2004/UFO-Sightings-Forecasting-with-Graph-Based-ML/blob/main/Actual%20vs%20predicted.jpeg
 Side-by-side bar chart showing actual 2024 counts vs forecasted 2026 totals per region
 
 ## Fig 4: Monthly Forecast Curves for Top Regions (2025–2026)
+https://github.com/vaibhavv2004/UFO-Sightings-Forecasting-with-Graph-Based-ML/blob/main/Predicted%20monthly%20ufo%20by%20region.jpeg
 Multi-line plot showing predicted monthly sightings for Canada, Brazil, India over 24 months
